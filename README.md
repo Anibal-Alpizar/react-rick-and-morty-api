@@ -1,7 +1,7 @@
 React application using: <br>
 
 React <br>
-Rick and Morty api <br>
+Rick and Morty API <br>
 Bootstrap <br>
 
 
